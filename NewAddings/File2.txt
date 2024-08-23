@@ -1,1 +1,3 @@
 S2 Logout
+
+S3 HomePage
